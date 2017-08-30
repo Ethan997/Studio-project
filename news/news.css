@@ -1,0 +1,696 @@
+@media (min-width: 1230px) {
+    a{
+        text-decoration: none !important;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 16px;
+        height: 71px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .w-li-index{
+        margin-left: 60px;
+    }
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .dropdown ul li a{
+        height: 30px;
+    }
+    #w-btn-nav{
+        margin-top: 18px !important;
+    }
+    .w-weibo{
+        margin-top: 18px;
+        position: fixed;
+        right: 1%;
+    }
+    /* 文章部分*/
+    .wBox{
+        width: 80%;
+        margin: 20px auto;
+        margin-top: 91px;
+        -webkit-border-radius:10px;
+        -moz-border-radius:10px;
+        border-radius:10px;
+        box-shadow: 0 0 25px rgba(0,0,0,.13);
+        padding: 20px 60px 20px 60px;
+
+    }
+    .wTitle{
+        font-weight: bold;
+    }
+    .wTitleSm{
+        font-size: 12px ;
+    }
+    .wArticle{
+        line-height:30px;
+        font-size: 16px;
+        font-weight:lighter;
+        font-family: 微软雅黑;
+        overflow: hidden;
+    }
+    .wArticle p{
+        text-indent: 2em;
+        white-space:normal;
+    }
+    .wArticlePic>img{
+        text-align:center;
+        width: 100%;
+        height: 20%;
+    }
+    /**小火箭**/
+
+    .to-top{
+        margin-bottom: 200px;
+    }
+
+
+    /*footer*/
+
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+    .wFooterCon{
+        height: 100%;
+        width: 70%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+
+
+
+}
+@media (max-width: 1230px){
+
+    a{
+        text-decoration: none !important;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-weibo{
+        display: none;
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 16px;
+        height: 71px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .w-li-index{
+        margin-left: 60px;
+    }
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .w-banner{
+        margin-top: 50px !important;
+        width: 100%;
+        height: 590px !important;
+    }
+    .dropdown ul li a{
+        height: 30px;
+    }
+    #w-btn-nav{
+        margin-top: 18px !important;
+    }
+    .w-weibo{
+        margin-top: 18px;
+        position: fixed;
+        right: 1%;
+    }
+    .wBox{
+        width: 80%;
+        margin: 20px auto;
+        margin-top: 91px;
+        -webkit-border-radius:10px;
+        -moz-border-radius:10px;
+        border-radius:10px;
+        box-shadow: 0 0 25px rgba(0,0,0,.13);
+        padding: 20px 60px 20px 60px;
+
+    }
+    .wTitle{
+        font-weight: bold;
+    }
+    .wTitleSm{
+        font-size: 12px ;
+    }
+    .wArticle{
+        line-height:30px;
+        font-size: 16px;
+        font-weight:lighter;
+        font-family: 微软雅黑;
+        overflow: hidden;
+    }
+    .wArticle p{
+        text-indent: 2em;
+        white-space:normal;
+    }
+    .wArticlePic>img{
+        text-align:center;
+        width: 100%;
+        height: 20%;
+    }
+    /**小火箭**/
+
+    .to-top{
+        margin-bottom: 200px;
+    }
+
+
+
+    /*footer*/
+
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+    .wFooterCon{
+        height: 100%;
+        width: 70%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+
+
+}
+@media (max-width: 960px) {
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 12px;
+        height: 40px;
+        color: #2b669a!important;
+    }
+    .logo{
+        height: 40px!important;
+        margin-top: 2px;
+    }
+    .navbar{
+        margin-bottom: 0!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+        padding: 5px !important;
+    }
+
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .banner1{
+        width: 100%;
+        height: 300px;
+    }
+    .dropdown ul li a{
+        height: 30px;
+        color: #2b669a!important;
+    }
+    #w-btn-nav{
+        margin-top: 4px !important;
+    }
+    .w-banner{
+        position: relative;
+        bottom:20px;
+        width: 100%;
+        height: 590px !important;
+    }
+    .w-weibo{
+        display: none;
+    }
+    /**文章**/
+    .wBox{
+        width: 80%;
+        margin: 20px auto;
+        margin-top: 91px;
+        -webkit-border-radius:10px;
+        -moz-border-radius:10px;
+        border-radius:10px;
+        box-shadow: 0 0 25px rgba(0,0,0,.13);
+        padding: 20px 60px 20px 60px;
+
+    }
+    .wTitle{
+        font-weight: bold;
+    }
+    .wTitleSm{
+        font-size: 12px ;
+    }
+    .wArticle{
+        line-height:30px;
+        font-size: 16px;
+        font-weight:lighter;
+        font-family: 微软雅黑;
+        overflow: hidden;
+    }
+    .wArticle p{
+        text-indent: 2em;
+        white-space:normal;
+    }
+    .wArticlePic>img{
+        text-align:center;
+        width: 100%;
+        height: 20%;
+    }
+    /**小火箭**/
+
+    .to-top{
+        margin-bottom: 200px;
+    }
+
+    /*footer*/
+
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+    .wFooterCon{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .w-title{
+        color: red;
+        font-size: 12px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 12px;
+        height: 40px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .w-li-index{
+        margin-left: 60px;
+    }
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .banner1{
+        width: 100%;
+        height: 590px ;
+    }
+    .dropdown ul li a{
+        height: 30px;
+        color: #2b669a!important;
+    }
+    #w-btn-nav{
+        margin-top: 3px !important;
+    }
+    .w-weibo{
+        display: none;
+    }
+    /**文章**/
+    .wBox{
+        width: 80%;
+        margin: 20px auto;
+        margin-top: 91px;
+        -webkit-border-radius:10px;
+        -moz-border-radius:10px;
+        border-radius:10px;
+        box-shadow: 0 0 25px rgba(0,0,0,.13);
+        padding: 20px 60px 20px 60px;
+
+    }
+    .wTitle{
+        font-weight: bold;
+    }
+    .wTitleSm{
+        font-size: 12px ;
+    }
+    .wArticle{
+        line-height:30px;
+        font-size: 16px;
+        font-weight:lighter;
+        font-family: 微软雅黑;
+        overflow: hidden;
+    }
+    .wArticle p{
+        text-indent: 2em;
+        white-space:normal;
+    }
+    .wArticlePic>img{
+        text-align:center;
+        width: 100%;
+        height: 20%;
+    }
+    /**小火箭**/
+
+    .to-top{
+        margin-bottom: 200px;
+    }
+
+
+    /*footer*/
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+    .wFooterCon{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 50%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 50%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+    .w-part1,.w-part3{
+        display: none;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .wQR{
+        display: none;
+    }
+}
+@media (max-width: 600px) {
+
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 16px;
+        height: 40px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .banner1{
+        width: 100%;
+        height: 590px ;
+    }
+    .dropdown ul li a{
+        height: 30px;
+        color: #2b669a!important;
+    }
+    #w-btn-nav{
+        margin-top: 5px !important;
+    }
+    .w-weibo{
+        display: none;
+    }
+    /**文章**/
+    .wBox{
+        width: 90%;
+        margin: 20px auto;
+        margin-top: 60px;
+        -webkit-border-radius:10px;
+        -moz-border-radius:10px;
+        border-radius:10px;
+        box-shadow: 0 0 25px rgba(0,0,0,.13);
+        padding: 20px 20px 20px 20px;
+
+    }
+    .wTitle{
+        font-weight: bold;
+    }
+    .wTitleSm{
+        font-size: 12px ;
+    }
+    .wArticle{
+        line-height:26px;
+        font-size: 14px;
+        font-weight:lighter;
+        font-family: 微软雅黑;
+        overflow: hidden;
+    }
+    .wArticle p{
+        text-indent: 2em;
+        white-space:normal;
+    }
+    .wArticlePic>img{
+        text-align:center;
+        width: 100%;
+        height: 20%;
+    }
+    /**小火箭**/
+
+    .to-top{
+        margin-bottom: 200px;
+        width: 20px!important;
+        height: 40px;
+        margin-right: 20px;
+        display: none!important;
+    }
+
+
+    /*footer*/
+
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:180px;
+        margin-top: 20px;
+    }
+    .wFooterCon{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 50%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 100%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+    .w-part1,.w-part3{
+        display: none;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .wQR{
+        display: none;
+    }
+    .wCompany{
+        display: none;
+    }
+}
