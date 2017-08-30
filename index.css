@@ -1,0 +1,1460 @@
+@media (min-width: 1230px) {
+    a{
+        text-decoration: none !important;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 16px;
+        height: 71px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .w-li-index{
+        margin-left: 60px;
+    }
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .w-banner{
+        margin-top: 50px !important;
+        width: 100%;
+        height: 590px !important;
+    }
+    .dropdown ul li a{
+        height: 30px;
+    }
+    #w-btn-nav{
+        margin-top: 18px !important;
+    }
+    .w-weibo{
+        margin-top: 18px;
+        position: fixed;
+        right: 1%;
+    }
+    .headlineNews{
+        width:90%;
+        height: 100px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+        margin-bottom: 30px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+
+    .w-news{
+        width: 90%;
+        height: 760px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+
+
+    }
+    .w-part1{
+        width: 30%;
+        height: 100%;
+        float: left;
+    }
+    .w-bannerSm{
+        width: 100%;
+        height: 28%;
+        margin-bottom: 2%;
+    }
+    .w-topics{
+        width: 100%;
+        height: 38%;
+        margin-bottom: 2%;
+        overflow: hidden;
+        margin-top: 20px;
+
+    }
+    .w-media{
+        width: 100%;
+        height: 30%;
+        overflow: hidden;
+    }
+    .w-part2{
+        width: 40%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+
+    }
+    .w-news1{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 2%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .w-news2{
+        width: 100%;
+        height: 48%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .w-part3{
+        width: 28%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+    }
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+
+    /*新加——新闻公告*/
+    .wTopNews{
+        color: orange;
+    }
+    .headlineNews h1{
+        font-weight:bold;
+        margin-top: 0 !important;
+    }
+    .headlineNews>h1>a:hover{
+        color: orange;
+    }
+
+    .wMoreNews{
+        margin-top: 0!important;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #b7d2ff;
+    }
+    .wMoreNews>a:hover{
+        color: orange;
+    }
+    .wNews1List{
+        padding-left:0;
+        list-style: circle !important;
+    }
+    .wNews1List li{
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-top: 10px;
+    }
+    .wNews1List li a{
+        font-size: 16px!important;
+        color: #1e347b;
+        font-weight: lighter;
+    }
+    .wNews1List>li>a:hover{
+        color: orange;
+    }
+    .wNews1-1{
+        font-size: 20px !important;
+        font-weight: 800 !important;
+        border: 0!important;
+        margin-bottom: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .wNews1-1 a{
+        color: #2b669a;
+    }
+    .wNews1-1>a:hover{
+        color: orange;
+    }
+
+    /*新加——新闻公告*/
+    .wBannerSmImg{
+        width: 100%!important;
+        height: 220px!important;
+    }
+    .wHot1{
+        width: 50%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .wHot1 img{
+        width: 100%;
+        height: 80%;
+    }
+    .wHot2{
+        margin-left: 10px;
+        width: 45%;
+        height: 80%;
+        float: left;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .wHot2 H4{
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .wHot2 H4 a{
+        font-size: 16px;
+    }
+    .wHot2Con{
+        color: grey !important;
+        font-size: 6px !important; ;
+    }
+    .wHot2Con{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .awardRow1{
+        float: left;
+        height: 50%;
+        width: 100%;
+    }
+    .awardRow1 img{
+        width: 49%;
+        height: 100%;
+    }
+
+    /*活动中心*/
+    .wEvent{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 3%;
+        overflow: hidden;
+    }
+    .wEvent img{
+        width: 90%;
+        height: 90%;
+    }
+    .wPicture img{
+        margin-bottom: 3%;
+    }
+    /*footer*/
+    .wFooterCon{
+        height: 100%;
+        width: 70%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+
+
+
+}
+@media (max-width: 1230px){
+
+    a{
+        text-decoration: none !important;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-weibo{
+        display: none;
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 16px;
+        height: 71px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .w-li-index{
+        margin-left: 60px;
+    }
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .w-banner{
+        margin-top: 50px !important;
+        width: 100%;
+        height: 590px !important;
+    }
+    .dropdown ul li a{
+        height: 30px;
+    }
+    #w-btn-nav{
+        margin-top: 18px !important;
+    }
+    .w-weibo{
+        margin-top: 18px;
+        position: fixed;
+        right: 1%;
+    }
+    .headlineNews{
+        width:90%;
+        height: 100px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+        margin-bottom: 30px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+
+    .w-news{
+        width: 90%;
+        height: 760px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+
+
+    }
+    .w-part1{
+        width: 30%;
+        height: 100%;
+        float: left;
+    }
+    .w-bannerSm{
+        width: 100%;
+        height: 28%;
+        margin-bottom: 2%;
+    }
+    .w-topics{
+        width: 100%;
+        height: 38%;
+        margin-bottom: 2%;
+        overflow: hidden;
+        margin-top: 20px;
+
+    }
+    .w-media{
+        width: 100%;
+        height: 30%;
+        overflow: hidden;
+    }
+    .w-part2{
+        width: 40%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+
+    }
+    .w-news1{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 2%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .w-news2{
+        width: 100%;
+        height: 48%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .w-part3{
+        width: 28%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+    }
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+
+    /*新加——新闻公告*/
+    .wTopNews{
+        color: orange;
+    }
+    .headlineNews h1{
+        font-weight:bold;
+        margin-top: 0 !important;
+    }
+    .headlineNews>h1>a:hover{
+        color: orange;
+    }
+
+    .wMoreNews{
+        margin-top: 0!important;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #b7d2ff;
+    }
+    .wMoreNews>a:hover{
+        color: orange;
+    }
+    .wNews1List{
+        padding-left:0;
+        list-style: circle !important;
+    }
+    .wNews1List li{
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-top: 10px;
+    }
+    .wNews1List li a{
+        font-size: 16px!important;
+        color: #1e347b;
+        font-weight: lighter;
+    }
+    .wNews1List>li>a:hover{
+        color: orange;
+    }
+    .wNews1-1{
+        font-size: 20px !important;
+        font-weight: 800 !important;
+        border: 0!important;
+        margin-bottom: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .wNews1-1 a{
+        color: #2b669a;
+    }
+    .wNews1-1>a:hover{
+        color: orange;
+    }
+
+    /*新加——新闻公告*/
+    .wBannerSmImg{
+        width: 100%!important;
+        height: 220px!important;
+    }
+    .wHot1{
+        width: 50%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .wHot1 img{
+        width: 100%;
+        height: 80%;
+    }
+    .wHot2{
+        margin-left: 10px;
+        width: 45%;
+        height: 80%;
+        float: left;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .wHot2 H4{
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .wHot2 H4 a{
+        font-size: 16px;
+    }
+    .wHot2Con{
+        color: grey !important;
+        font-size: 6px !important; ;
+    }
+    .wHot2Con{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .awardRow1{
+        float: left;
+        height: 50%;
+        width: 100%;
+    }
+    .awardRow1 img{
+        width: 49%;
+        height: 100%;
+    }
+
+    /*活动中心*/
+    .wEvent{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 3%;
+        overflow: hidden;
+    }
+    .wEvent img{
+        width: 90%;
+        height: 90%;
+    }
+    .wPicture img{
+        margin-bottom: 3%;
+    }
+    /*footer*/
+    .wFooterCon{
+        height: 100%;
+        width: 70%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+
+
+}
+@media (max-width: 960px) {
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 12px;
+        height: 40px;
+        color: #2b669a!important;
+    }
+    .logo{
+        height: 40px!important;
+        margin-top: 2px;
+    }
+    .navbar{
+        margin-bottom: 0!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+        padding: 5px !important;
+    }
+
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .banner1{
+        width: 100%;
+        height: 300px;
+    }
+    .dropdown ul li a{
+        height: 30px;
+        color: #2b669a!important;
+    }
+    #w-btn-nav{
+        margin-top: 4px !important;
+    }
+    .w-banner{
+        position: relative;
+        bottom:20px;
+        width: 100%;
+        height: 590px !important;
+    }
+    .w-weibo{
+        display: none;
+    }
+    .headlineNews{
+        width:96%;
+        height: 100px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+        margin-bottom: 30px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+
+    .w-news{
+        width: 96%;
+        height: 760px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+
+
+    }
+    .w-part1{
+        width: 30%;
+        height: 100%;
+        float: left;
+    }
+    .w-bannerSm{
+        width: 100%;
+        height: 28%;
+        margin-bottom: 2%;
+    }
+    .w-topics{
+        width: 100%;
+        height: 38%;
+        margin-bottom: 2%;
+        overflow: hidden;
+        margin-top: 20px;
+
+    }
+    .w-media{
+        width: 100%;
+        height: 30%;
+        overflow: hidden;
+    }
+    .w-part2{
+        width: 40%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+
+    }
+    .w-news1{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 2%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .w-news2{
+        width: 100%;
+        height: 48%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .w-part3{
+        width: 28%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+    }
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+
+    /*新加——新闻公告*/
+    .wTopNews{
+        color: orange;
+    }
+    .headlineNews h1{
+        font-weight:bold;
+        margin-top: 0 !important;
+    }
+    .headlineNews>h1>a:hover{
+        color: orange;
+    }
+
+    .wMoreNews{
+        margin-top: 0!important;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #b7d2ff;
+    }
+    .wMoreNews>a:hover{
+        color: orange;
+    }
+    .wNews1List{
+        padding-left:0;
+        list-style: circle !important;
+    }
+    .wNews1List li{
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-top: 10px;
+    }
+    .wNews1List li a{
+        font-size: 16px!important;
+        color: #1e347b;
+        font-weight: lighter;
+    }
+    .wNews1List>li>a:hover{
+        color: orange;
+    }
+    .wNews1-1{
+        font-size: 20px !important;
+        font-weight: 800 !important;
+        border: 0!important;
+        margin-bottom: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .wNews1-1 a{
+        color: #2b669a;
+    }
+    .wNews1-1>a:hover{
+        color: orange;
+    }
+
+    /*新加——新闻公告*/
+    .wBannerSmImg{
+        width: 100%!important;
+        height: 220px!important;
+    }
+    .wHot1{
+        width: 50%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .wHot1 img{
+        width: 100%;
+        height: 80%;
+    }
+    .wHot2{
+        margin-left: 10px;
+        width: 45%;
+        height: 80%;
+        float: left;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .wHot2 H4{
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .wHot2 H4 a{
+        font-size: 16px;
+    }
+    .wHot2Con{
+        color: grey !important;
+        font-size: 6px !important; ;
+    }
+    .wHot2Con{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .awardRow1{
+        float: left;
+        height: 50%;
+        width: 100%;
+    }
+    .awardRow1 img{
+        width: 49%;
+        height: 100%;
+    }
+
+    /*活动中心*/
+    .wEvent{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 3%;
+        overflow: hidden;
+    }
+    .wEvent img{
+        width: 90%;
+        height: 90%;
+    }
+    .wPicture img{
+        margin-bottom: 3%;
+    }
+    /*footer*/
+    .wFooterCon{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .w-title{
+        color: red;
+        font-size: 12px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 12px;
+        height: 40px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .w-li-index{
+        margin-left: 60px;
+    }
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .banner1{
+        width: 100%;
+        height: 590px ;
+    }
+    .dropdown ul li a{
+        height: 30px;
+        color: #2b669a!important;
+    }
+    #w-btn-nav{
+        margin-top: 3px !important;
+    }
+    .w-weibo{
+        display: none;
+    }
+    .w-banner{
+        margin-top: 30px;
+        width: 100%;
+        height: 400px !important;
+    }
+    .headlineNews{
+        width:96%;
+        height: 100px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+        margin-bottom: 30px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+
+    .w-news{
+        width: 96%;
+        height: 760px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+
+
+    }
+    .w-part1{
+        width: 30%;
+        height: 100%;
+        float: left;
+    }
+    .w-bannerSm{
+        width: 100%;
+        height: 28%;
+        margin-bottom: 2%;
+    }
+    .w-topics{
+        width: 100%;
+        height: 38%;
+        margin-bottom: 2%;
+        overflow: hidden;
+        margin-top: 20px;
+
+    }
+    .w-media{
+        width: 100%;
+        height: 30%;
+        overflow: hidden;
+    }
+    .w-part2{
+        width: 100%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+
+    }
+    .w-news1{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 2%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .w-news2{
+        width: 100%;
+        height: 48%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .w-part3{
+        width: 28%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+    }
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:200px;
+        margin-top: 20px;
+    }
+
+
+    /*新加——新闻公告*/
+    .wTopNews{
+        color: orange;
+    }
+    .headlineNews h1{
+        font-weight:bold;
+        margin-top: 0 !important;
+    }
+    .headlineNews>h1>a:hover{
+        color: orange;
+    }
+
+    .wMoreNews{
+        margin-top: 0!important;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #b7d2ff;
+    }
+    .wMoreNews>a:hover{
+        color: orange;
+    }
+    .wNews1List{
+        padding-left:0;
+        list-style: circle !important;
+    }
+    .wNews1List li{
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-top: 10px;
+    }
+    .wNews1List li a{
+        font-size: 16px!important;
+        color: #1e347b;
+        font-weight: lighter;
+    }
+    .wNews1List>li>a:hover{
+        color: orange;
+    }
+    .wNews1-1{
+        font-size: 20px !important;
+        font-weight: 800 !important;
+        border: 0!important;
+        margin-bottom: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .wNews1-1 a{
+        color: #2b669a;
+    }
+    .wNews1-1>a:hover{
+        color: orange;
+    }
+
+    /*新加——新闻公告*/
+    .wBannerSmImg{
+        width: 100%!important;
+        height: 220px!important;
+    }
+    .wHot1{
+        width: 50%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .wHot1 img{
+        width: 100%;
+        height: 80%;
+    }
+    .wHot2{
+        margin-left: 10px;
+        width: 45%;
+        height: 80%;
+        float: left;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .wHot2 H4{
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .wHot2 H4 a{
+        font-size: 16px;
+    }
+    .wHot2Con{
+        color: grey !important;
+        font-size: 6px !important; ;
+    }
+    .wHot2Con{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .awardRow1{
+        float: left;
+        height: 50%;
+        width: 100%;
+    }
+    .awardRow1 img{
+        width: 49%;
+        height: 100%;
+    }
+
+    /*活动中心*/
+    .wEvent{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 3%;
+        overflow: hidden;
+    }
+    .wEvent img{
+        width: 90%;
+        height: 90%;
+    }
+    .wPicture img{
+        margin-bottom: 3%;
+    }
+    /*footer*/
+    .wFooterCon{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 50%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 50%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+    .w-part1,.w-part3{
+        display: none;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .wQR{
+        display: none;
+    }
+}
+@media (max-width: 600px) {
+
+    .w-title{
+        color: red;
+        font-size: 16px;
+
+    }
+    .w-title:hover{
+        background-color:#f7f9fa !important;
+        color: #0E2D5F !important;
+    }
+    nav li a{
+        font-size: 16px;
+        height: 40px;
+        color: #2b669a!important;
+    }
+    .navbar-nav>li>a {
+        line-height: 37px !important;
+    }
+
+    .navbar-nav li a:hover{
+        background-color: darkgray !important;
+        color: white !important;
+    }
+    .banner1{
+        width: 100%;
+        height: 590px ;
+    }
+    .dropdown ul li a{
+        height: 30px;
+        color: #2b669a!important;
+    }
+    #w-btn-nav{
+        margin-top: 5px !important;
+    }
+    .w-weibo{
+        display: none;
+    }
+    .w-banner{
+        margin-top: 50px;
+        width: 100%;
+        height: 200px !important;
+    }
+    .w-li-index{
+        margin: 0!important;
+    }
+    .headlineNews{
+        width:96%;
+        height: 100px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+        margin-bottom: 30px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+
+
+    .w-news{
+        width: 96%;
+        height: 900px;
+        margin: 10px auto;
+        border-bottom: 1px solid #b7d2ff;
+
+
+    }
+    .w-part1{
+        width: 30%;
+        height: 100%;
+        float: left;
+    }
+    .w-bannerSm{
+        width: 100%;
+        height: 28%;
+        margin-bottom: 2%;
+    }
+    .w-topics{
+        width: 100%;
+        height: 38%;
+        margin-bottom: 2%;
+        overflow: hidden;
+        margin-top: 20px;
+
+    }
+    .w-media{
+        width: 100%;
+        height: 30%;
+        overflow: hidden;
+    }
+    .w-part2{
+        width: 100%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+
+    }
+    .w-news1{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 2%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .w-news2{
+        width: 100%;
+        height: 48%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .w-part3{
+        width: 28%;
+        height: 100%;
+        float: left;
+        margin-left: 1%;
+
+    }
+    .w-footer{
+        background-color: #2e2e2e;
+        width: 100%;
+        height:180px;
+        margin-top: 20px;
+    }
+
+
+    /*新加——新闻公告*/
+    .wTopNews{
+        color: orange;
+    }
+    .headlineNews h1{
+        font-weight:bold;
+        margin-top: 0 !important;
+        font-size:26px;
+    }
+    .headlineNews>h1>a:hover{
+        color: orange;
+    }
+
+    .wMoreNews{
+        margin-top: 0!important;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #b7d2ff;
+    }
+    .wMoreNews>a:hover{
+        color: orange;
+    }
+    .wNews1List{
+        padding-left:0;
+        list-style: circle !important;
+    }
+    .wNews1List li{
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-top: 10px;
+    }
+    .wNews1List li a{
+        font-size: 16px!important;
+        color: #1e347b;
+        font-weight: lighter;
+    }
+    .wNews1List>li>a:hover{
+        color: orange;
+    }
+    .wNews1-1{
+        font-size: 20px !important;
+        font-weight: 800 !important;
+        border: 0!important;
+        margin-bottom: 20px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .wNews1-1 a{
+        color: #2b669a;
+    }
+    .wNews1-1>a:hover{
+        color: orange;
+    }
+
+    /*新加——新闻公告*/
+    .wBannerSmImg{
+        width: 100%!important;
+        height: 220px!important;
+    }
+    .wHot1{
+        width: 50%;
+        height: 100%;
+        float: left;
+        overflow: hidden;
+    }
+    .wHot1 img{
+        width: 100%;
+        height: 80%;
+    }
+    .wHot2{
+        margin-left: 10px;
+        width: 45%;
+        height: 80%;
+        float: left;
+        overflow: hidden;
+        text-overflow: ellipsis;
+
+    }
+    .wHot2 H4{
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    .wHot2 H4 a{
+        font-size: 16px;
+    }
+    .wHot2Con{
+        color: grey !important;
+        font-size: 6px !important; ;
+    }
+    .wHot2Con{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .awardRow1{
+        float: left;
+        height: 50%;
+        width: 100%;
+    }
+    .awardRow1 img{
+        width: 49%;
+        height: 100%;
+    }
+
+    /*活动中心*/
+    .wEvent{
+        width: 100%;
+        height: 50%;
+        margin-bottom: 3%;
+        overflow: hidden;
+    }
+    .wEvent img{
+        width: 90%;
+        height: 90%;
+    }
+    .wPicture img{
+        margin-bottom: 3%;
+    }
+    /*footer*/
+    .wFooterCon{
+        height: 100%;
+        width: 90%;
+        margin: 0 auto;
+
+    }
+    .wCompany{
+        height: 100%;
+        width: 50%;
+        float: left;
+    }
+    .wCompany p{
+        color: white;
+    }
+    .wAddress{
+        height: 100%;
+        width: 100%;
+        float: left;
+    }
+    .wAddress1-1{
+        margin-top: 6%;
+    }
+    .wAddress p{
+        color: white;
+        text-align: center;
+
+    }
+    .wQR{
+        height: 100%;
+        width: 33.33%;
+        float: left;
+    }
+    .wQR>img{
+        margin-top: 6%;
+        margin-left: 20%;
+    }
+
+    .w-part1,.w-part3{
+        display: none;
+    }
+    hr{
+        margin-top: 10px!important;
+        margin-bottom: 10px!important;
+    }
+    .wQR{
+        display: none;
+    }
+    .wCompany{
+        display: none;
+    }
+}
